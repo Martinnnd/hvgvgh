@@ -1,0 +1,36 @@
+body{
+    width: auto;
+    background-image: url(https://i.ytimg.com/vi/OoPOYjRgaaE/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAC314OZnR5kIvf_F5oSlnisjZSHQ);
+    background-size: cover;
+    
+
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    margin: 200px 300px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+}
+
+h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+select{
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px;
+   margin: 100px 300px; 
+}
+
+button{
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    margin: 0 300px; 
+}
+
